@@ -1,5 +1,5 @@
 <?php
-require_once("checkEmail.php");
+//require_once("checkEmail.php");
 ?>
 <html>
    <head>
